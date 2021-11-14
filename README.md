@@ -13,7 +13,8 @@ To make the code more efficient and able to go through larger data sets, I had t
 Below are the screenshots showing the runtime for the original code and the refactored code. The refactored code ran significantly faster than the original code and rendered the same results. This indicates its running faster and more efficiently.
 
 #### Original Runtimes
-![Runtime Original]
+![Runtime Original](https://github.com/mmanackal/stock-analysis/blob/main/Resources/2017_Original.png)
+![Runtime_Original](https://github.com/mmanackal/stock-analysis/blob/main/Resources/2018_Original.png)
 
 #### Refactored Runtimes
 ![Runtime Refactored]
