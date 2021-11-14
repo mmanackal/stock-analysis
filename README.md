@@ -7,9 +7,9 @@ Expanding the analysis beyond the 12 stocks for Steve's parents required a more 
 ### Results
 To make the code more efficient and able to go through larger data sets, I had to create 3 new arrays and loops for the analysis. Below are screenshots of the original code and the the refactored code:
 #### Original Code 
-![Original_Code] https://github.com/mmanackal/stock-analysis/blob/main/Resources/Original_Code.png
+![Original_Code](https://github.com/mmanackal/stock-analysis/blob/main/Resources/Original_Code.png)
 #### Refactored Codes
-![Refactored Code] https://github.com/mmanackal/stock-analysis/blob/main/Resources/Refactored_Code.png
+![Refactored Code](https://github.com/mmanackal/stock-analysis/blob/main/Resources/Refactored_Code.png)
 Below are the screenshots showing the runtime for the original code and the refactored code. The refactored code ran significantly faster than the original code and rendered the same results. This indicates its running faster and more efficiently.
 
 #### Original Runtimes
