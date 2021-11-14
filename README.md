@@ -21,4 +21,4 @@ Below are the screenshots showing the runtime for the original code and the refa
 ![Runtime_Refactored](https://github.com/mmanackal/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ### Summary
-Refactoring the code made it more efficient and usable for a larger data set. The challenge with refactoring is ensuring that it is done correctly because you are taking something that is working and changing it which could lead to undesirable results. There were error messages received in this process before the code ran correctly. 
+The advantage of refactoring is that it made the code more efficient and usable for a larger data set. The challenge with refactoring is ensuring that it is done correctly because you are taking something that is working and changing it which could lead to undesirable results. There were error messages received in this process before the code ran correctly. 
